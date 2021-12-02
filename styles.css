@@ -47,3 +47,8 @@ button{
   border-radius: 30px;
   color:#232931;
 }
+
+a{
+  color: #fff;
+  text-decoration: none;
+}
